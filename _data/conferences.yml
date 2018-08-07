@@ -204,3 +204,14 @@
   date_to: "2019-3-27"
   location: "Madison,USA"
   page_limit: 18  
+
+- name: IEEE REAL-TIME AND EMBEDDED TECHNOLOGY AND APPLICATIONS SYMPOSIUM
+  abbrv: RTAS
+  url: http://2019.rtas.org
+  edition: 8
+  deadline: "2018-10-17"
+  date_from: "2019-4-16"
+  date_to: "2019-4-18"
+  location: "MONTREAL, CANADA"
+  page_limit: 18  
+
