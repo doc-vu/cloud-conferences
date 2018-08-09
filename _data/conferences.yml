@@ -215,3 +215,15 @@
   location: "MONTREAL, CANADA"
   page_limit: 18  
 
+
+- name: IEEE International Conference on Fog Computing 
+  abbrv: ICFC
+  url: http://conferences.computer.org/ICFC/2019/CFP.html
+  edition: 1
+  deadline: "2018-11-8"
+  date_from: "2019-6-24"
+  date_to: "2019-6-25"
+  location: "Prague, Czech Republic"
+  page_limit: 18  
+
+
