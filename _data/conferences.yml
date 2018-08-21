@@ -236,3 +236,14 @@
   date_to: "2019-3-15"
   location: "Kyoto,JAPAN"
   page_limit: 18  
+
+- name: IEEE International Conference on Fog and Edge Computing 
+  abbrv: ICFEC
+  url: http://www.cloudbus.org/fog/icfec2019/
+  edition: 1
+  deadline: "2018-11-30"
+  date_from: "2019-5-14"
+  date_to: "2019-5-17"
+  location: "Larnaca, Cyprus"
+  page_limit: 18  
+
